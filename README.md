@@ -1,7 +1,5 @@
 # A Whale Off the Port(folio)
 
-![Portfolio Analysis](Images/portfolio-analysis.png)
-
 ## Background
 
 A client investment firm has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
