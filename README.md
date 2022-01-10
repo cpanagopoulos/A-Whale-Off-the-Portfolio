@@ -2,7 +2,7 @@
 
 ## Challenge
 
-A client investment firm has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best. Apply quantitative analysis techniques using Python and Pandas so the client can identify which portfolio is performing the best across multiple areas: volatility, returns, risk, and Sharpe ratios.
+A client investment firm has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best. Apply quantitative analysis techniques using Python and Pandas so the client can identify which portfolio (Hedge Fund, Whale, Algos) is performing the best across multiple areas: volatility, returns, risk, and Sharpe ratios.
 
 ## Deliverables
 
